@@ -1,2 +1,3 @@
-# reading-notes
-My reading journal for Code Fellows
+# My Learning Journal
+
+what growth mindset means to me is:
