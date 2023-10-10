@@ -10,4 +10,5 @@ Understand that failure is a natural part of the learning process. Don't be disc
 
 * Cultivate Persistence:
 Stay committed to your goals and aspirations, even when faced with obstacles.
-  
+
+  ![Positive Mindset](https://miro.medium.com/v2/resize:fit:1200/1*qHtu6cte5l7xRhTA5Lf-vg.jpeg)
