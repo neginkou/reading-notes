@@ -16,3 +16,28 @@ Stay committed to your goals and aspirations, even when faced with obstacles.
   Negin Koushkakinejad
   
   [My Github](https://github.com/neginkou/)
+
+# Table of Contents
+
+## code 102 notes
+
+[Read: 01 - Learning Markdown](102/reading-1.md)
+
+[Read: 02 - The Coder's Computer](102/reading-2.md)
+
+[Read: 03 - Revisions and the Cloud](102/reading-3.md)
+
+[Read: 04 - Structure web pages with HTML](102/reading-4.md)
+
+[Read: 05 - Design web pages with CSS](102/reading-5.md)
+
+[Read: 06 - Dynamic web pages with JavaScript](102/reading-6.md)
+
+[Read: 07 - Programming with JavaScript](102/reading-7.md)
+
+[Read: 08 - Operators and Loops](102/reading-8.md)
+
+
+# Table of Contents
+
+## Code 201 notes
