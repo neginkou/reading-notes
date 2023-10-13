@@ -43,17 +43,31 @@ Stay committed to your goals and aspirations, even when faced with obstacles.
 ## Code 201 notes
 
 [Read:201-1](201.reading 1.md)
+
 [Read:201-2](201.reading 2.md)
+
 [Read:201-3](201.reading 3.md)
+
 [Read:201-4](201.reading 4.md)
+
 [Read:201-5](201.reading 5.md)
+
 [Read:201-6](201.reading 6.md)
+
 [Read:201-7](201.reading 7.md)
+
 [Read:201-8](201.reading 8.md)
+
 [Read:201-9](201.reading 9.md)
+
 [Read:201-10](201.reading 10.md)
+
 [Read:201-11](201.reading 11.md)
+
 [Read:201-12](201.reading 12.md)
+
 [Read:201-13](201.reading 13.md)
+
 [Read:201-14](201.reading 14.md)
+
 [Read:201-15](201.reading 15.md)
