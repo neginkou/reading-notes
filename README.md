@@ -19,7 +19,7 @@ Stay committed to your goals and aspirations, even when faced with obstacles.
 
 # Table of Contents
 
-## code 102 notes
+## code102notes
 
 [Read: 01 - Learning Markdown](102/reading-1.md)
 
