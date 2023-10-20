@@ -1,6 +1,6 @@
-# My Learning Journal
+# Reading Notes
 
-**What "_growth mindset_" means to me is a belief or attitude that individuals can develop and improve their abilities, skills, and intelligence over time through dedication, effort, and learning.** 
+**What "_growth mindset_" means to me is a belief or attitude that individuals can develop and improve their abilities, skills, and intelligence over time through dedication, effort, and learning.**
 
 * Embrace Challenges:
 Remind yourself that challenges are opportunities for growth. Instead of avoiding difficult tasks or situations, welcome them as chances to learn and develop your skills.
@@ -17,9 +17,7 @@ Stay committed to your goals and aspirations, even when faced with obstacles.
   
   [My Github](https://github.com/neginkou/)
 
-# Table of Contents
-
-## code102notes
+## Code 102 - Intro to Software Development
 
 [Read: 01 - Learning Markdown](102/reading-1.md)
 
@@ -37,10 +35,7 @@ Stay committed to your goals and aspirations, even when faced with obstacles.
 
 [Read: 08 - Operators and Loops](102/reading-8.md)
 
-
-# Table of Contents
-
-## Code201notes
+## Code 201 - Foundations of Software Development
 
 [Read:201-1](201.reading1.md)
 
@@ -71,3 +66,7 @@ Stay committed to your goals and aspirations, even when faced with obstacles.
 [Read:201-14](201.reading14.md)
 
 [Read:201-15](201.reading15.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
