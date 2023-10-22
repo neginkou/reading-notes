@@ -37,7 +37,7 @@ Stay committed to your goals and aspirations, even when faced with obstacles.
 
 ## Code 201 - Foundations of Software Development
 
-[Read:201-1](201.reading1.md)
+[Read:201-1](class-01.md)
 
 [Read:201-2](201.reading2.md)
 
