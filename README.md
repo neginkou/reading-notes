@@ -18,6 +18,7 @@ Stay committed to your goals and aspirations, even when faced with obstacles.
   [My Github](https://github.com/neginkou/)
 
 ## Code 102 - Intro to Software Development
+### Table of Content
 
 [Read: 01 - Learning Markdown](102/reading-1.md)
 
@@ -36,36 +37,37 @@ Stay committed to your goals and aspirations, even when faced with obstacles.
 [Read: 08 - Operators and Loops](102/reading-8.md)
 
 ## Code 201 - Foundations of Software Development
+### Tebel of Content
 
 [Read:201-1](class-01.md)
 
-[Read:201-2](201.reading2.md)
+[Read:201-2](class-02.md)
 
-[Read:201-3](201.reading3.md)
+[Read:201-3](class-03.md)
 
-[Read:201-4](201.reading4.md)
+[Read:201-4](class-04.md)
 
-[Read:201-5](201.reading5.md)
+[Read:201-5](class-05.md)
 
-[Read:201-6](201.reading6.md)
+[Read:201-6](class-06.md)
 
-[Read:201-7](201.reading7.md)
+[Read:201-7](class-07.md)
 
-[Read:201-8](201.reading8.md)
+[Read:201-8](class-08.md)
 
-[Read:201-9](201.reading9.md)
+[Read:201-9](class-09.md)
 
-[Read:201-10](201.reading10.md)
+[Read:201-10](class-10.md)
 
-[Read:201-11](201.reading11.md)
+[Read:201-11](class-11.md)
 
-[Read:201-12](201.reading12.md)
+[Read:201-12](class-12.md)
 
-[Read:201-13](201.reading13.md)
+[Read:201-13](class-13.md)
 
-[Read:201-14](201.reading14.md)
+[Read:201-14](class-14.md)
 
-[Read:201-15](201.reading15.md)
+[Read:201-15](class-15.md)
 
 ## Code 301 - Intermediate Software Development
 
