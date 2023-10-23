@@ -1,4 +1,6 @@
 
+### Designing a website with a strong emphasis on web semantics and JavaScript is crucial in our current module. Web semantics ensures accessibility and SEO, while JavaScript adds interactivity. These skills are essential for creating modern, functional, and user-friendly websites
+
 1. Compose a short poem describing how HTTP sends data between computers.
 
  *HTTP, a bridge from you to me. It travels through the digital stream,
@@ -48,7 +50,7 @@ An attribute should have:
 *article* encloses a block of related content that makes sense on its own without the rest of the page.
 *section* is similar to *article*, but it is more for grouping together a single part of the page that constitutes one single piece of functionality.
 
-4. What Elements does a “typical” website include? 
+4. What Elements does a “typical” website include?
 
 Header, Navigation bar,main content, Article, Section, Divide and, footer.
 
@@ -87,14 +89,12 @@ Some of the benefits from writing semantic markup are as follows:
 * Suggests to the developer the type of data that will be populated
 * Semantic naming mirrors proper custom element/component naming.
 
-
-
 1. Describe 2 things that require JavaScript in the Browser?
 
 2. How can you add JavaScript to an HTML document?
 
 JavaScript is applied to your HTML page in a similar manner to CSS. Whereas CSS uses *link* elements to apply external stylesheets and *style* elements to apply internal stylesheets to HTML, JavaScript only needs one friend in the world of HTML — the *script* element.
 
-## Things I want to know more about:
+## Things I want to know more about
 
 1. Describe 2 things that require JavaScript in the Browser?
