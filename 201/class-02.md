@@ -10,11 +10,11 @@ Using semantic elements in HTML improves accessibility, SEO, maintainability, an
 
 2. How many levels of headings are there in HTML?
 
-HTML offers six hevel of headings, ranging from <h1> the highest level </h1> to <h6> the lowest level.</h6>
+HTML offers six level of headings, ranging from <h1> the highest level </h1> to <h6> the lowest level.</h6>
 
 3. What are some uses for the 'sup' and 'sub' elements?
 
-The 'sup' and 'sub' elements in HTML are used to define superscript and subscript text, respectively. They are commenly used in various contexts to format text in a way that raises or lowers it relative to the surrounding text.
+The 'sup' and 'sub' elements in HTML are used to define superscript and subscript text, respectively. They are commonly used in various contexts to format text in a way that raises or lowers it relative to the surrounding text.
 
 4. When using the 'abbr' element, what attribute must be added to provide the full expansion of the term?
 
@@ -28,7 +28,7 @@ When using the 'abbr' element in HTML to indicate an abbreviation, it's essentia
 
 * Internal Styles: Embed CSS within the HTML document's 'style' element, usually placed in the 'head' section of the HTML document. Internal styles apply to the entire page.
 
-* External Styles: Create a seperate CSS file (style.css) and link it to your HTML document using the 'link' element in the 'head' section. External styles can be reused across multiple HTML pages.
+* External Styles: Create a separate CSS file (style.css) and link it to your HTML document using the 'link' element in the 'head' section. External styles can be reused across multiple HTML pages.
 
 2. Why should we avoid using inline styles?
 
@@ -47,7 +47,7 @@ While inline styles offer a quick way to apply styles directly to individual ele
 
     2. Which components are the CSS declarations?
     The CSS declarations are the lines within the curly braces. In this example, there are two declarations:
-    * color: black; This decalaration sets the text color of the selected 'h2' elements to black.
+    * color: black; This declaration sets the text color of the selected 'h2' elements black.
     * padding: 5px; This declaration adds 5 pixels of padding around the content of the selected 'h2' elements.
  
 
@@ -65,13 +65,13 @@ A sequence of text enclosed in single quote marks, like this: 'example text', is
 2. List 4 types of JavaScript operators.
 
 * Arithmetic Operators: These operators perform mathematical calculations.
-* Comparison Operators: These operators are used to compare values and return a Boolean result (ture or false).
+* Comparison Operators: These operators are used to compare values and return a Boolean result (true or false).
 * Logical operators: Logical operators are used to combine or manipulate Boolean values.
 * Assignment Operators: These operators assign values to variables.
 
 3. Describe a real world Problem you could solve with a Function.
 
-A real-world problem that can be solved with a function is calculating the total cost of a shopping cart, taking into account various items with diffrent prices, quantities, and potentially applying discount or taxes.
+A real-world problem that can be solved with a function is calculating the total cost of a shopping cart, taking into account various items with different prices, quantities, and potentially applying discount or taxes.
 
 [Making Decisions In Your Code – Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
