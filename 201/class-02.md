@@ -41,17 +41,18 @@ While inline styles offer a quick way to apply styles directly to individual ele
      padding: 5px;
    }
 
-    1. What is representing the selector? 
+ 1. What is representing the selector?
+
     The selector is 'h2'. It is the part of the CSS rule that defines which HTML elements the following declarations should be applied to. In this case, it targets all 'h2' elements.
 
+ 2. Which components are the CSS declarations?
 
-    2. Which components are the CSS declarations?
-    The CSS declarations are the lines within the curly braces. In this example, there are two declarations:
-    * color: black; This declaration sets the text color of the selected 'h2' elements black.
-    * padding: 5px; This declaration adds 5 pixels of padding around the content of the selected 'h2' elements.
- 
+  The CSS declarations are the lines within the curly braces. In this example, there are two declarations:
 
-    3. Which components are considered properties?
+* color: black; This declaration sets the text color of the selected 'h2' elements black.
+* padding: 5px; This declaration adds 5 pixels of padding around the content of the selected 'h2' elements.
+
+3. Which components are considered properties?
 
     The properties are the attributes defined within the declarations. In this code:'color' and 'padding' are the properties. They specify what aspect of the selected elements is being styled (text color and padding, respectively).
     black and 5px are the values assigned to these properties. The values determine the specific style or measurement associated with each property.
@@ -77,7 +78,7 @@ A real-world problem that can be solved with a function is calculating the total
 
 ## Things I want to know more about
 
-1. An if statement checks a *condition*_and if it evaluates to *true*_, then the code block will execute.
+1. An if statement checks a *condition**and if it evaluates to *true**, then the code block will execute.
 
 2. What is the use of an else if?
 
