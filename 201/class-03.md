@@ -1,3 +1,4 @@
+
 # Read: Class 03
 
  The topics I'm studying are not just theoretical but practical, and they will play a significant role in my academic success and future career prospects. They form the building blocks upon which I'll construct my knowledge and skills throughout my module and beyond.
